@@ -1,0 +1,28 @@
+.form-custom{
+margin-top: 30%;
+}
+
+#result{
+
+  color: color(black);
+
+
+  position: relative;
+  z-index:4000;
+  cursor:pointer;
+  background-color: color(white);
+
+
+}
+
+#resultv li {
+  border-radius: 0px;
+}
+#result li:hover{
+  color: white;
+
+
+
+  cursor:pointer;
+  background-color: rgb(34, 29, 254);
+}
